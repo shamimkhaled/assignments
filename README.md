@@ -27,10 +27,8 @@ faisal/
 │   │   └── CMP003.txt
 │   ├── output_files/
 │   │   ├── CMP*_summary.txt
-│   │   └── academic_performance_report.txt
-│   ├── README.md                      # Detailed project documentation
-│   ├── COLAB_SETUP.md                 # Google Colab setup guide
-│   └── requirements.txt
+│   │   └── academic_performance_report.txt                                  
+│   └── README.md 
 │
 ├── ict702_assignment/                 # Football Tournament Database Design
 │   ├── ICT702_Assignment2_Football_Tournament_Solution.md
@@ -94,7 +92,7 @@ python student_performance_analysis.py
 ### Documentation
 
 📖 **Detailed Documentation**: [assignment2_solution/README.md](assignment2_solution/README.md)  
-☁️ **Google Colab Guide**: [assignment2_solution/COLAB_SETUP.md](assignment2_solution/COLAB_SETUP.md)  
+☁️ **Google Colab Guide**: [jupiter_notebook_colab_run_guide.md](jupiter_notebook_colab_run_guide.md)  
 📓 **Jupyter Notebook**: [Student_Performance_Analysis_Colab.ipynb](Student_Performance_Analysis_Colab.ipynb)
 
 ---
@@ -226,7 +224,7 @@ Player (Supertype)
 
 ### Student Performance Analysis System
 - **Main README**: [assignment2_solution/README.md](assignment2_solution/README.md)
-- **Google Colab Setup**: [assignment2_solution/COLAB_SETUP.md](assignment2_solution/COLAB_SETUP.md)
+- **Google Colab Setup**: [jupiter_notebook_colab_run_guide.md](jupiter_notebook_colab_run_guide.md)
 - **Jupyter Notebook**: [Student_Performance_Analysis_Colab.ipynb](Student_Performance_Analysis_Colab.ipynb)
 
 ### Football Tournament Database Design
@@ -372,7 +370,7 @@ For questions or issues:
 | Resource | Link |
 |----------|------|
 | **Student Performance Analysis README** | [assignment2_solution/README.md](assignment2_solution/README.md) |
-| **Google Colab Setup Guide** | [assignment2_solution/COLAB_SETUP.md](assignment2_solution/COLAB_SETUP.md) |
+| **Google Colab Setup Guide** | [jupiter_notebook_colab_run_guide.md](jupiter_notebook_colab_run_guide.md) |
 | **Database Design Document (Word)** | [ict702_assignment/ICT702_Assignment2_Football_Tournament_Solution.docx](ict702_assignment/ICT702_Assignment2_Football_Tournament_Solution.docx) |
 | **Database Design Document (Markdown)** | [ict702_assignment/ICT702_Assignment2_Football_Tournament_Solution.md](ict702_assignment/ICT702_Assignment2_Football_Tournament_Solution.md) |
 | **ER Diagram (PNG)** | [ict702_assignment/football_tournament_er_diagram.png](ict702_assignment/football_tournament_er_diagram.png) |
