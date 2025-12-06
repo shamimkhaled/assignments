@@ -16,7 +16,7 @@ This repository includes solutions for **two major assignments**:
 ## 📁 Repository Structure
 
 ```
-faisal/
+assignments/
 │
 ├── assignment2_solution/              # Student Performance Analysis System
 │   ├── code/
