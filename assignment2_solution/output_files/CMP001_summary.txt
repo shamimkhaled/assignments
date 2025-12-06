@@ -1,0 +1,9 @@
+Campus Code: CMP001
+Average Programming Mark: 66.5
+Average Database Mark: 68.9
+Average Systems Analysis Mark: 67.1
+Average Networking Mark: 68.8
+Students At Risk (Average < 50):
+s98767
+s98770
+s98774

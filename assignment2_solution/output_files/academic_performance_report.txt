@@ -1,0 +1,62 @@
+======================================================================
+ACADEMIC PERFORMANCE ANALYSIS REPORT
+======================================================================
+
+PURPOSE OF ANALYSIS:
+----------------------------------------------------------------------
+This report analyzes student performance across multiple university
+campuses to identify academic trends, at-risk students, and provide
+data-driven recommendations for improving educational outcomes.
+
+SUMMARY STATISTICS:
+----------------------------------------------------------------------
+Total Number of Campuses Processed: 3
+Total Students Processed: 30
+Total At-Risk Students: 8
+
+OVERALL SUBJECT TRENDS:
+----------------------------------------------------------------------
+Average Programming Mark: 68.67
+Average Database Mark: 70.57
+Average Systems Analysis Mark: 69.52
+Average Networking Mark: 71.18
+
+Strongest Subject: Networking (71.18)
+Weakest Subject: Programming (68.67)
+
+PERFORMANCE DISTRIBUTION:
+----------------------------------------------------------------------
+Institute-wide High-Performer Percentage: 73.33%
+Institute-wide At-Risk Percentage: 26.67%
+
+CAMPUS-WISE BREAKDOWN:
+----------------------------------------------------------------------
+CMP001: 10 students, 3 at risk (30.0%)
+CMP002: 12 students, 3 at risk (25.0%)
+CMP003: 8 students, 2 at risk (25.0%)
+
+RECOMMENDATIONS:
+----------------------------------------------------------------------
+1. IMMEDIATE INTERVENTION:
+   - Provide targeted support to 8 at-risk students
+   - Implement peer tutoring programs
+   - Offer additional office hours for struggling students
+
+2. CURRICULUM ENHANCEMENT:
+   - Strengthen Programming curriculum and teaching methods
+   - Share best practices from high-performing subjects
+   - Introduce more practical, hands-on learning activities
+
+3. MONITORING AND ASSESSMENT:
+   - Implement early warning systems for struggling students
+   - Conduct regular progress assessments
+   - Establish feedback mechanisms for continuous improvement
+
+4. RESOURCE ALLOCATION:
+   - Allocate additional resources to campuses with higher at-risk rates
+   - Invest in learning management systems and online resources
+   - Provide professional development for faculty
+
+======================================================================
+End of Report
+======================================================================

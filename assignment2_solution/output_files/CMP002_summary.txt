@@ -1,0 +1,9 @@
+Campus Code: CMP002
+Average Programming Mark: 69.4
+Average Database Mark: 70.8
+Average Systems Analysis Mark: 70.2
+Average Networking Mark: 72.0
+Students At Risk (Average < 50):
+s99003
+s99006
+s99012
